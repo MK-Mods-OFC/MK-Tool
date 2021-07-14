@@ -1,0 +1,26 @@
+{
+  "name": "MK-Tool",
+  "version": "2.0.0",
+  "description": "Convenient API for creating your own SMS bomber",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MK-Mods-OFC/MK-Tool.git"
+  },
+  "author": "Mikey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "open": "^7.3.1",
+    "path": "0.12.7",
+    "request": "^2.88.2",
+    "yargs": "^16.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/MK-Mods-OFC/MK-Tool/issues"
+  },
+  "homepage": "https://github.com/MK-Mods-OFC/MK-Tool#readme"
+}
