@@ -12,7 +12,7 @@
 
 **Versión WEB**
 > Para usar SMS Bomber, debe instalar [NodeJS](https://nodejs.org/en/)
-  * Descargar [el último](https://github.com/MK-Mods-OFC/MK-Tool/releases/) versión
+  * Descargar [el último](https://github.com/MK-Mods-OFC/MK-Tool/) versión
   * Desempaquetar el archivo
   * Instalar dependencias - `npm install`
   * Ingresar `npm start` o `node index`
